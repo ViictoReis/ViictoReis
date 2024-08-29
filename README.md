@@ -1,4 +1,5 @@
 ## Olá!! Eu sou o ViictoReis
+🖥 Cursando ciência da computação
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Viicto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
